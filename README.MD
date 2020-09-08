@@ -30,4 +30,4 @@ automatically and then you will be prompted to manually edit the files on GitHub
 
 # Forking vs Cloning 
 
-Forking copies the repo on Git to your account and allows to push and make changes.  Cloning copies the code to your local computer.  To send changes to a cloned repo, you need to be an admin / collaborator, which the owner of the repo needs to add you to.  Forking allows you to take a copy and not be added as a collaborator, but still send your changes to the origin / original repo you forked from, so that the owner of the repo can incorporate your changes without needing to add you as a collaborator.
+Forking copies the repo on Git to your account and allows to push and make changes.  Cloning copies the code to your local computer.  To send changes to a cloned repo, you need to be an admin / collaborator, which the owner of the repo needs to add you to.  Forking allows you to take a copy and not be added as a collaborator, but still send your changes to the origin / original repo you forked from, so that the owner of the repo can incorporate your changes without needing to add you as a  collaborator.
